@@ -1,0 +1,15 @@
+# Blender v2.77 (sub 0) OBJ File: 'paseo.blend'
+# www.blender.org
+mtllib Plane036.mtl
+o Plane036
+v 1.521475 -0.112732 -0.437847
+v 1.668870 -0.112732 -0.437847
+v 1.668870 -0.112732 -0.456272
+v 1.521475 -0.112732 -0.456272
+vt 0.0000 0.0000
+vt 2000.0000 0.0000
+vt 2000.0000 250.0000
+vt 0.0000 250.0000
+usemtl vray_Okno_konstrukcia
+s 1
+f 1/1 2/2 3/3 4/4
