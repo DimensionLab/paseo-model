@@ -1,0 +1,14 @@
+# Blender MTL File: 'paseo.blend'
+# Material Count: 1
+
+newmtl vray_Material__2143567372
+Ns 21.568627
+Ka 0.588000 0.588000 0.588000
+Kd 0.207800 0.207800 0.207800
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.600000
+d 1.000000
+illum 2
+map_Kd textury/fasada_siva.jpg
+map_Ka  textury/fasada_siva.jpg
